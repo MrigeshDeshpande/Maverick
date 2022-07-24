@@ -134,9 +134,7 @@ them all the predictions made.
 ------
 
 ![image](https://user-images.githubusercontent.com/67750918/180648168-62a247c3-bc94-40ea-9a28-6f4f22586f6d.png)
-------
 
-![image](https://user-images.githubusercontent.com/67750918/180648182-83dbd379-c460-464c-a253-47ac7b410dac.png)
 ------
 ![image](https://user-images.githubusercontent.com/67750918/180648199-99dda082-9bac-42b4-b9ed-b87a80a986c7.png)
 
@@ -145,9 +143,9 @@ them all the predictions made.
 
 ------
 
-### Conclusion & Future Work ###
+## Conclusion & Future Work ##
 ------
- **CONCLUSION**
+ **Conclusion**
 ------
  Medical developments have advanced to the point that we can treat a broader range of 
 diseases, new diagnostic and therapeutic methods are emerging, and pharmacology is 
@@ -161,7 +159,7 @@ chatbots hope to do. Chatbots assist patients in deciding if they should see a s
 and, if so, which one, offer answers to simple queries, and remind them to take their 
 medicine.
 
- **FUTURE WORK**
+ **Future Work**
 ------
 *Connecting databases to the internet to improve the diagnosis of mental health*
 
