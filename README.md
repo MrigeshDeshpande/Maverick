@@ -83,7 +83,7 @@ Document search module makes it easy for a bot to search for documents or web pa
 and come up with the right answer. Each part has its own strength. When combined, they 
 create a very capable chatbot
 
-### ALGORITHM ###
+### Algorithm ###
 ------
 The Nave Bayes method is a supervised learning technique for addressing classification 
 issues that is based on the Bayes theorem.
@@ -236,6 +236,44 @@ simulate a real conversation, and it may also integrate advanced sound analysis
 methods. Simple chatbots aid in the navigation and discovery of therapy and 
 medical advice. However, AI research is increasingly focusing on using advanced 
 language processing algorithms to enable therapeutic dialogue
+
+### Advantages & Limitations ###
+------
+**Advantages**
+------
+- Constant availability
+
+One of the biggest advantages of bots is that they are available to solve problems 
+at any given time on any given day which makes them more efficient. They are 
+constantly available and don't get tired.
+
+- Reducing work
+
+Chatbot can reduce work by answering the basic questions and simple queries 
+which can be the first source of information in quick succession. If the queries are 
+complex then it can be passed to the human support team.
+
+- They help in saving time
+
+Most consumers need their information quickly. Chatbot can efficiently save a 
+lot of time by giving you the information you are searching for instead of you 
+searching it by yourself for hours. Compared to humans, chatbots are much better 
+at dealing with a huge amount of information. 
+
+**Limitations** 
+------ 
+- Basic question can be solved
+
+Chatbots can only answer the basic questions of consumers and provide general 
+information that they are equipped with. They cannot solve complicated queries 
+or answer out of script questions and still need to have human consumer service 
+that can manage these for them.
+
+- Need of maintenance
+
+Chatbots need constant updating so that they are able to solve newer customer 
+queries. It also needs to be periodically analyzed so that it is working properly 
+and remains in working condition.
 
 **APPLICATION**
 ------
