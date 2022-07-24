@@ -275,7 +275,7 @@ Chatbots need constant updating so that they are able to solve newer customer
 queries. It also needs to be periodically analyzed so that it is working properly 
 and remains in working condition.
 
-**APPLICATION**
+**Applications**
 ------
 - A chatbot can help you from anywhere with an internet connection, whether you're out 
 and about or at home.
