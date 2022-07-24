@@ -174,7 +174,7 @@ play to help calm the person down.
 contact person (Human Resource, Family, Friends, or a Colleague) can get in 
 touch with the person.
 
-*Calling the API of Music applications and mind relaxing games*
+Calling the API of Music applications and mind relaxing games
 ------
 - ➢ Our prediction earlier was limited by our database. By connecting it to the 
 internet, we can improve the performance by adding more varied questions and 
@@ -184,8 +184,8 @@ While the user is playing the game, motivational songs will be played in the
 background distracting user from suicidal thoughts which can be achieved by 
 calling the APIs of music applications available on iOS and android.
 
-*We can use Artificial Intelligence (AI) which may assist with mental health 
-detection which will improve the accuracy exponentially*
+We can use Artificial Intelligence (AI) which may assist with mental health 
+detection which will improve the accuracy exponentially
 ------
 
  AI-based protocols may be employed at any moment, providing real-time treatment 
