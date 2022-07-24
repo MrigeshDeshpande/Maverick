@@ -127,6 +127,24 @@ them all the predictions made.
 ### Activity Diagram ###
 ![image](https://user-images.githubusercontent.com/67750918/180646282-7c876988-8091-46b6-b771-8c2ae4c1d582.png)
 ------
+
+### SnapShot ###
+------
+![image](https://user-images.githubusercontent.com/67750918/180648125-edddb140-7d09-48ab-8dde-0f7d8ab49966.png)
+------
+
+![image](https://user-images.githubusercontent.com/67750918/180648168-62a247c3-bc94-40ea-9a28-6f4f22586f6d.png)
+------
+
+![image](https://user-images.githubusercontent.com/67750918/180648182-83dbd379-c460-464c-a253-47ac7b410dac.png)
+------
+![image](https://user-images.githubusercontent.com/67750918/180648199-99dda082-9bac-42b4-b9ed-b87a80a986c7.png)
+
+------
+![image](https://user-images.githubusercontent.com/67750918/180648229-7f4699cf-a034-4e5a-a633-e130572a58e2.png)
+
+------
+
 ### Conclusion & Future Work ###
 ------
  **CONCLUSION**
